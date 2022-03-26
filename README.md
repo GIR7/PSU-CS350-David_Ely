@@ -1,2 +1,2 @@
-# CS350
+#PSU - CS350
 coding assignment
